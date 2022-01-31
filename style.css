@@ -8,7 +8,7 @@
 
 body{
 
-    background-color: #9FB6CD;
+    background-color:#BCD2EE;
 }
 
 
@@ -19,14 +19,14 @@ body{
 
 #container{
 
-    width: 250px;
-    height: 380px;
+    width: 300px;
+    height: 420px;
     background-color: #fff ;
     -webkit-border-radius:10px;
     -moz-border-radius:10px;
     border-radius: 10px;
     margin: 0 auto;
-    margin-top:120px;
+    margin-top:180px;
     text-align: center;
 
 }
@@ -34,7 +34,7 @@ body{
 
 #container img{
 
-    width: 225px;
+    width:270px;
     height: 205;
     text-align: center;
     padding-top: 10px;
