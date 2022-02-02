@@ -18,14 +18,14 @@ body{
 
 .container{
 
-    width: 375px;
+    width: 350px;
     height: 480px;
     background-color:  hsl(0, 0%, 100%);
     -webkit-border-radius:10px;
     -moz-border-radius:10px;
     border-radius: 10px;
     margin: 0 auto;
-    margin-top:180px;
+    margin-top:155px;
     text-align: center;
     border: 1px solid hsl(212, 45%, 89%);
 
@@ -61,5 +61,6 @@ body{
         width: 95%;
         padding-left: 10px;
         padding-right: 20px;
+        color:  gray;
 
     }
