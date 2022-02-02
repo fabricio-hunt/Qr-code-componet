@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 *{
 
     margin: 0;
@@ -8,34 +12,30 @@
 
 body{
 
-    background-color:#BCD2EE;
+    background-color:hsl(212, 45%, 89%);
 }
 
 
+.container{
 
-
-
-
-
-#container{
-
-    width: 300px;
-    height: 420px;
-    background-color: #fff ;
+    width: 375px;
+    height: 480px;
+    background-color:  hsl(0, 0%, 100%);
     -webkit-border-radius:10px;
     -moz-border-radius:10px;
     border-radius: 10px;
     margin: 0 auto;
     margin-top:180px;
     text-align: center;
+    border: 1px solid hsl(212, 45%, 89%);
 
 }
 
 
-#container img{
+.container img{
 
-    width:270px;
-    height: 205;
+    width:90%;
+    height: 270px;
     text-align: center;
     padding-top: 10px;
     margin: 0 auto;
@@ -46,11 +46,20 @@ body{
 
     h1{
         padding-top: 10px;
-        font-size: 15px;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 28px;
+        font-family:'Outfit', sans-serif;
+        margin-left:15PX;
+        margin-right: 15px;
+        color:hsl(218, 44%, 22%) ;
+        line-height: 30px;
     }
 
     p{
 
-        font-size: 12px;
+        font-size: 15px;
+        font-family:'Outfit', sans-serif;
+        width: 95%;
+        padding-left: 10px;
+        padding-right: 20px;
+
     }
